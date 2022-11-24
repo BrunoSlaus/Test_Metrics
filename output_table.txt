@@ -1,0 +1,13 @@
+\begin{table}[] 
+\caption{Caption }
+\centering
+\begin{tabular}{|p{3.5cm}|p{2.5cm}||p{0.5cm}|p{0.5cm}|p{0.5cm}|p{0.5cm}|p{0.5cm}|p{0.8cm}|p{0.8cm}|}
+     \hline
+      Ime & JMBAG & Z1 & Z2 & Z3 & Z4 & Z5 & Bonus & Sum \\ 
+     \hline
+Bruno Šlaus & 0119014444 & 0 & 0 & 2 & 3 & 1 & 0 & 6 \\ 
+Jamal Hammoud & 0000000000 & 1 & 0 & 0 & 0 & 2 & 0 & 3 \\ 
+Bruno Klajn & 0000000000 & 9 & 9 & 9 & 9 & 9 & 0 & 45 \\ 
+\hline 
+\end{tabular} 
+\end{table}
